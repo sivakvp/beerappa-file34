@@ -1,0 +1,48 @@
+hello
+good morning to all 
+
+
+
+
+linux commands 
+
+
+pwd   =present workin directory 
+
+ls    = it shows the files 
+
+cd    = change the directory 
+
+mkdir = make a directory name (it creates a directory  or floder )
+touch = it creates a file 
+
+cp    = to copy the one file to anotherfile 
+
+mv   = to move the from one file to another file 
+
+rm   = to remove the files (or) deleting file 
+
+rm -R = TO remove the directories or floder
+
+
+chomd = to chanage the permission 
+
+          read + write + execute = 7
+             4 + 2  + 1           =7
+
+
+
+
+ls -lt = it shows the all the data 
+
+sudo -i = it switch normal user to root user 
+
+cat    = we can save the data inside the file  , it shows the file content  
+    
+vi   =  visual index  ,
+
+ls -a = it shows hidden files 
+
+man = manual page read it 
+
+
